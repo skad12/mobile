@@ -7,6 +7,7 @@ export default function Home() {
    
    <Head>
       <title>Mobile Layout</title>
+      <link rel="icon" href="/favicon.ico" />
     </Head>
 
     <div className="grid min-h-screen bg-gray-300 antialiased md:grid-cols-2">
