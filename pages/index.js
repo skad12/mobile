@@ -10,7 +10,7 @@ export default function Home() {
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
-    <div className="grid min-h-screen bg-gray-300 antialiased md:grid-cols-2">
+    <div className="grid min-h-screen bg-gray-300 antialiased md:grid-cols-2 place-items-center ">
 
   {/* 1st box  */}
   <div className="relative mt-16 box-content h-4/5 w-72 space-y-3 rounded-md bg-white p-4 shadow-md hover:shadow-xl md:ml-16 md:space-y-5 lg:ml-44 xl:ml-80">
