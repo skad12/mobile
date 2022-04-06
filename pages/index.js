@@ -96,8 +96,8 @@ export default function Home() {
 
     <div className="font-semibold text-gray-700">
       <div className="flex space-x-3 text-base">
-        <svg xmlns="http://www.w3.org/2000/svg" className="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
+        <svg xmlns="http://www.w3.org/2000/svg" className="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+          <path strokeLinecap="round" strokeLinejoin="round" d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
         </svg>
         <div className="text-">Log Out</div>
       </div>
@@ -129,8 +129,8 @@ export default function Home() {
       <div className="font-semibold text-gray-700">
       <div className=" flex justify-between">
         <div className="flex space-x-3 text-base">
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0" />
+          <svg xmlns="http://www.w3.org/2000/svg" className="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0" />
           </svg>
           <div className="text-">Wi-Fi</div>
           </div>
@@ -210,7 +210,7 @@ export default function Home() {
 
     {/* 4th box */}
     <div className="mt-4 box-content h-40 w-72 space-y-5 rounded-md bg-white p-4">
-      <div><input type="text" placeholder="Search" className="h-9 w-72 rounded-md bg-gray-200 pl-4 focus:bg-white focus:outline-none focus:ring-1 focus:ring-blue-400" /></div>
+      <div><input type="text" placeHolder="Search" className="h-9 w-72 rounded-md bg-gray-200 pl-4 focus:bg-white focus:outline-none focus:ring-1 focus:ring-blue-400" /></div>
 
       <div className="font-semibold text-gray-700">
         <div className="flex space-x-3 text-base">
