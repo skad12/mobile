@@ -168,7 +168,7 @@ export default function Home() {
       <div className="font-semibold text-gray-700">
         <div className="flex justify-between">
           <div><img src="https://i.pravatar.cc/300" alt="" className="h-12 w-12 rounded-full p-2" /></div>
-          <div className="-ml-4 mt-8 h-2 w-2 rounded-full bg-green-500"></div>
+          <div className="-ml-8 mt-8 h-2 w-2 rounded-full bg-green-500"></div>
 
           <div className="p-3">John Meyers</div>
           <div className="pl-20 pt-4">
