@@ -166,7 +166,7 @@ export default function Home() {
      {/* 3rd box  */}
     <div className="mt-4 box-content h-36 w-72 rounded-md bg-white p-4">
       <div className="font-semibold text-gray-700">
-        <div className="flex">
+        <div className="flex justify-between">
           <div><img src="https://i.pravatar.cc/300" alt="" className="h-12 w-12 rounded-full p-2" /></div>
           <div className="-ml-4 mt-8 h-2 w-2 rounded-full bg-green-500"></div>
 
@@ -180,7 +180,7 @@ export default function Home() {
       </div>
 
       <div className="font-semibold text-gray-700">
-        <div className="flex">
+        <div className="flex justify-between">
           <div><img src="https://i.pravatar.cc/150?img=3" alt="" className="h-12 w-12 rounded-full p-2" /></div>
           <div className="-ml-4 mt-8 h-2 w-2 rounded-full bg-green-500"></div>
 
@@ -194,7 +194,7 @@ export default function Home() {
       </div>
 
       <div className="font-semibold text-gray-700">
-        <div className="flex">
+        <div className="flex justify-between">
           <div><img src=" https://i.pravatar.cc/300" alt="" className="h-12 w-12 rounded-full p-2" /></div>
           <div className="-ml-4 mt-8 h-2 w-2 rounded-full bg-green-500"></div>
 
